@@ -9,10 +9,25 @@ width: 100%;
 background-color:lightgreen
 
 }
-
+<html>
+<head>
 <style>
-p {
-color:red;
+h1 {
+background-color:beige;
 text-align: center;
 }
+div {
+background-color:coral;
+text-align: center;
+}
+p {
+background-color:red;
+text-align: center;
+}
+
 </style>
+</head>
+<body>
+
+</body>
+</html>
